@@ -13,4 +13,4 @@ print(resto)
 
 c =  input('Entre com o primeiro valor:')
 d =  input('Entre com o segundo valor:')
-print ("o valor de c é:", c)
+print ("o valor de c é :", c)
